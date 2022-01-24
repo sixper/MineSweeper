@@ -11,7 +11,7 @@ Every turn game prompts you to select a row and column.
 # Winning Scenario 1
 
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-" width="200" height="400" />
+<img src="https://github.com/favicon.ico" width="48">
 
 
 # Losing Scenario
