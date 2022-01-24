@@ -23,4 +23,4 @@ Every turn game prompts you to select a row and column.
 # Winning Scenario 2
 
 
-<img src="img/3.png" width="250" height="1000">
+<img src="img/3.png" width="400" height="1000">
