@@ -11,7 +11,7 @@ Every turn game prompts you to select a row and column.
 # Winning Scenario 1
 
 
-<img src="img/1.png" width="500" height="1000">
+<img src="img/1.png" width="250" height="1000">
 
 
 # Losing Scenario
