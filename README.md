@@ -17,10 +17,10 @@ Every turn game prompts you to select a row and column.
 # Losing Scenario
 
 
-![](img/2.png)
+<img src="img/2.png" width="250" height="1000">
 
 
 # Winning Scenario 2
 
 
-![](img/3.png)
+<img src="img/3.png" width="250" height="1000">
