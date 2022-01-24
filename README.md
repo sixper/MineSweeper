@@ -11,7 +11,7 @@ Every turn game prompts you to select a row and column.
 # Winning Scenario 1
 
 
-![](img/1.png)
+![](img/1.png = 500x2000)
 
 
 # Losing Scenario
