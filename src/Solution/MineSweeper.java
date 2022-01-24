@@ -41,6 +41,12 @@ public class MineSweeper {
             System.out.print("Select the column: ");
             int columnSelect = input.nextInt();
 
+            if(rowSelect < 0 || rowSelect >= this.row || columnSelect < 0 || columnSelect >= this.column){
+
+                System.out.println("Wrong row or select. Please enter valid values");
+                continue;
+            }
+
             if(mines[rowSelect][columnSelect] == 0){
 
                 int count = 0;
