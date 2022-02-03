@@ -5,7 +5,7 @@ Minesweeper game made in java.
 The game works on console. It reads row and column size from input, then initialize the game. <br>
 
 Mines count are (rowSize * columnSize) / 4 <br>
-Every turn game prompts you to select a row and column.
+Every turn game prompts you to select a row and column. <br>
 
 
 # Winning Scenario 1
