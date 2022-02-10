@@ -1,6 +1,6 @@
 # MineSweeper
 
-Minesweeper game made in java.
+Minesweeper game made in java
 
 The game works on console. It reads row and column size from input, then initialize the game. <br>
 
